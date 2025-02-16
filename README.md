@@ -1,16 +1,32 @@
-## Hola Soy LEGION👋 
+# 👋 ¡Hola, soy LEGION!  
 
-<!--
-**DarwinTorrez/DarwinTorrez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi perfil de GitHub. Soy un apasionado por la tecnología, la programación y el aprendizaje constante.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí  
+🔹 Me encanta desarrollar proyectos innovadores.  
+🔹 Siempre estoy aprendiendo nuevas tecnologías.  
+🔹 Busco colaborar en proyectos interesantes.  
+🔹 Me gusta ayudar a la comunidad con mis conocimientos.  
+
+---
+
+## 🛠️ Tecnologías y herramientas  
+💻 Lenguajes: Python, JavaScript, C++, C#, Laravel
+🛠️ Frameworks: React, Node.js, Django  
+📦 Bases de datos: MySQL, MongoDB  
+🖥️ Otras herramientas: Git, Docker, Linux  
+
+---
+
+## 📫 ¡Hablemos!  
+Si deseas colaborar en un proyecto o simplemente charlar sobre tecnología, puedes contactarme en:  
+
+📧 Email: [tuemail@example.com](mailto:tuemail@example.com)  
+🌐 LinkedIn: [Tu Perfil](https://linkedin.com/in/tuusuario)  
+🐦 Twitter: [@tuusuario](https://twitter.com/tuusuario)  
+
+---
+
+✨ _"El aprendizaje es un viaje, no un destino."_
