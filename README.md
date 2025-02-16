@@ -1,14 +1,15 @@
-# 👋 ¡Hola, soy Darwin Torrez!  
+# 👋 ¡Hola, soy LEGION!  
 
-Bienvenido a mi perfil de GitHub. Soy un apasionado por la tecnología, la programación y el aprendizaje constante.  
+Bienvenido a mi perfil de GitHub. Soy un apasionado por la tecnología, la programación y el aprendizaje constante. Me especializo en el desarrollo de aplicaciones y sistemas que optimizan procesos y mejoran la eficiencia, especialmente en entornos empresariales.  
 
 ---
 
 ## 🚀 Sobre mí  
-🔹 Me encanta desarrollar proyectos innovadores.  
-🔹 Siempre estoy aprendiendo nuevas tecnologías.  
-🔹 Busco colaborar en proyectos interesantes.  
-🔹 Me gusta ayudar a la comunidad con mis conocimientos.  
+🔹 Me encanta desarrollar proyectos innovadores y optimizar sistemas.  
+🔹 Siempre estoy aprendiendo nuevas tecnologías y aplicándolas en proyectos reales.  
+🔹 Busco colaborar en proyectos desafiantes y con impacto.  
+🔹 Me gusta ayudar a la comunidad con mis conocimientos y compartir soluciones.  
+🔹 Tengo experiencia en el desarrollo de aplicaciones con **.NET MAUI, ASP.NET Core y MongoDB**.  
 
 ---
 
@@ -23,11 +24,14 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado por la tecnología, la progr
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
 
 ### 🛠️ Frameworks y librerías  
+![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)  
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)  
 
 ### 📦 Bases de datos  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
 
@@ -40,9 +44,16 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado por la tecnología, la progr
 
 ---
 
+## 📊 Proyectos destacados  
+📌 **Sistema de reportes con .NET MAUI y MongoDB** – Aplicación con exportación a Excel.  
+📌 **API REST con ASP.NET Core** – Integración con MongoDB para reportes empresariales.  
+📌 **Calculadora de carga en C# WinForms** – Herramienta para optimización de tiempos.  
+
+---
+
 ## 🎮 Desarrollo y gestión de videojuegos  
-🎮 **GTA Online:** Negocios y gestión  
-🎮 **Xbox Game Pass:** Venta de juegos digitales  
+🎮 **GTA Online:** Negocios y gestión.  
+🎮 **Xbox Game Pass:** Venta de juegos digitales.  
 
 ---
 
