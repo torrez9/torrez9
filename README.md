@@ -54,10 +54,16 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado por la tecnología, la progr
 
 ## 📱 Desarrollo móvil y de escritorio  
 
-📌 **Aplicaciones en .NET MAUI:**  
-🔹 Desarrollo de aplicaciones móviles con integración a APIs.  
-🔹 Aplicación para reportes de ventas en un restaurante, con exportación a Excel.  
-🔹 Uso de arquitectura **MVVM** y almacenamiento local.  
+📌 **Aplicación de Reportes para Restaurante:**  
+🔹 Desarrollé una aplicación en .NET MAUI para la gestión de reportes de ventas en un restaurante.  
+🔹 Implementé **exportación de reportes a Excel** usando **EPPlus**.  
+🔹 La app consume datos de una **API en ASP.NET Core con MongoDB**.  
+🔹 Utilicé la arquitectura **MVVM** para una mejor organización del código.  
+🔹 Funcionalidades clave:  
+   - Reportes de ventas diarias, semanales y mensuales.  
+   - Listado de productos más vendidos.  
+   - Gestión de inventario en tiempo real.  
+   - Integración con almacenamiento local para manejo de archivos.  
 
 📌 **Aplicaciones en Windows Forms con C#:**  
 🔹 Desarrollo de herramientas de productividad con **WinForms**.  
