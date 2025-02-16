@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy LEGION!  
+# 👋 ¡Hola, soy Darwin Torrez!  
 
 Bienvenido a mi perfil de GitHub. Soy un apasionado por la tecnología, la programación y el aprendizaje constante.  
 
