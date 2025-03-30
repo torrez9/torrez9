@@ -85,12 +85,6 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado por la tecnología, la progr
 
 ---
 
-## 🎮 Desarrollo y gestión de videojuegos  
-🎮 **GTA Online:** Negocios y gestión.  
-🎮 **Xbox Game Pass:** Venta de juegos digitales.  
-
----
-
 ## 📫 ¡Hablemos!  
 📧 **Email:** [darwincarballo82@gmail.com](mailto:darwincarballo82@gmail.com)  
 
