@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hola, soy LEGION! </h1>  
+<h1 align="center">👋 ¡Hola, soy _torrez9! </h1>  
 <h3 align="center">Desarrollador Full Stack | .NET MAUI | C# | Laravel | MongoDB | Windows Forms</h3>  
 
 <p align="center">  
@@ -80,15 +80,15 @@
 ## 📈 Estadísticas de GitHub  
 
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=LEGION&show_icons=true&theme=tokyonight" alt="GitHub Stats" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=_torrez9&show_icons=true&theme=tokyonight" alt="GitHub Stats" />  
 </p>  
 
 <p align="center">  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LEGION&theme=tokyonight" alt="GitHub Streak" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=_torrez9&theme=tokyonight" alt="GitHub Streak" />  
 </p>  
 
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEGION&layout=compact&theme=tokyonight" alt="Top Langs" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=_torrez9&layout=compact&theme=tokyonight" alt="Top Langs" />  
 </p>  
 
 ---
