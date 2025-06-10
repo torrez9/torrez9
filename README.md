@@ -16,7 +16,7 @@
 🤝 **Dispuesto a colaborar en proyectos ambiciosos**  
 🔧 **Fan de la automatización y optimización**  
 📊 **Enfocado en entregar software funcional y escalable**  
-📚 **Con experiencia en la creación de APIs, gestión de datos y consumo de servicios en diferentes plataformas**  
+📚 **Con experiencia en la creación de APIs, gestión de datos y consumo de servicios en diferentes plataformas**
 
 > 🎯 “La tecnología no solo resuelve problemas, también crea oportunidades”.
 
@@ -52,19 +52,19 @@
 
 ## 📱 Aplicaciones desarrolladas
 
-### .NET MAUI (Móvil)
+### 📱 .NET MAUI (Móvil)
 - 📲 App de reportes de ventas para restaurante con **exportación a Excel**
 - 🧱 Arquitectura **MVVM**
-- 🗂️ Almacenamiento local y conexión con APIs REST
+- 🌐 Almacenamiento local y conexión con APIs REST
 
-### Windows Forms (Escritorio)
+### 💻 Windows Forms (Escritorio)
 - 🧮 **Calculadora de carga** para optimización de tiempos
 - 🗃️ Conexión a **SQLite y MySQL**
 - ⚒️ Herramientas de productividad internas
 
-### Laravel & ASP.NET Core (Web)
-- 🌐 Sistemas de gestión y análisis de datos
-- 🔄 CRUD completos e integraciones con APIs
+### 🌐 Laravel & ASP.NET Core (Web)
+- 🧠 Sistemas de gestión y análisis de datos
+- 🔁 CRUD completos e integraciones con APIs
 - 💾 Soporte para MongoDB y bases de datos relacionales
 
 ---
@@ -82,7 +82,7 @@
 
 ## 📫 Contacto
 
-💌 **Correo electrónico:** [darwincarballo82@gmail.com](mailto:darwincarballo82@gmail.com)
+📧 **Correo electrónico:** [darwincarballo82@gmail.com](mailto:darwincarballo82@gmail.com)
 
 ---
 
@@ -95,5 +95,5 @@
 ---
 
 <div align="center">
-  <b><i>“El aprendizaje es un viaje, no un destino.”</i></b> ✨  
+  <b><i>📚 “El aprendizaje es un viaje, no un destino.”</i></b> ✨  
 </div>
