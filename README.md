@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,python,js,ts,php,bash,sql,html,css,java,dart" alt="Lenguajes" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,python,js,ts,php,bash,sql,html,css,java,dart,kotlin" alt="Lenguajes" />
 </div>
 
 ---
@@ -34,7 +34,7 @@
 ### 🖥️ Lenguajes de Programación
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,python,js,ts,php,bash,sql,html,css,java,dart" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,python,js,ts,php,bash,sql,html,css,java,dart,kotlin" />
 </div>
 
 ### 📦 Frameworks & Librerías
@@ -52,7 +52,7 @@
 ### ⚙️ Herramientas y plataformas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=github,docker,postman,linux,git,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=github,docker,postman,linux,git,vscode,visualstudio,androidstudio" />
 </div>
 
 ---
@@ -82,6 +82,7 @@
 - ⚙️ **API REST** con ASP.NET Core + MongoDB
 - 🍽️ **App para restaurante** (gestión de ventas y reportes)
 - 🧮 **Calculadora de carga** en C# WinForms
+- 📱 **Prototipo Android con Kotlin y Jetpack**
 - 🌍 **Aplicaciones empresariales** con Laravel + APIs
 - 📊 **Dashboards de datos y reportes automatizados** con exportación a Excel
 
