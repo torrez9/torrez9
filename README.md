@@ -1,6 +1,13 @@
 <h1 align="center">👋 ¡Hola! Soy <span style="color:#7A7ADB;">torrez9</span></h1>
 <p align="center">💻 Desarrollador apasionado por la tecnología, la programación y la eficiencia. 🚀</p>
 
+<p align="center">
+  <a href="mailto:darwincarballo82@gmail.com"><img src="https://img.shields.io/badge/email-darwincarballo82@gmail.com-blue?style=flat-square&logo=gmail" /></a>
+  <a href="https://github.com/torrez9"><img src="https://img.shields.io/github/followers/torrez9?label=Follow&style=social" /></a>
+  <img src="https://komarev.com/ghpvc/?username=torrez9&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Code%20With%20❤️%20In-C%23-blueviolet?style=flat-square" />
+</p>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs,cpp,python,js,ts,php,bash,sql,html,css,java,dart" alt="Lenguajes" />
 </div>
