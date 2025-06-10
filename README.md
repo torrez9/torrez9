@@ -15,7 +15,8 @@
 💡 **Creativo en la resolución de problemas**  
 🤝 **Dispuesto a colaborar en proyectos ambiciosos**  
 🔧 **Fan de la automatización y optimización**  
-📊 **Enfocado en entregar software funcional y escalable**
+📊 **Enfocado en entregar software funcional y escalable**  
+📚 **Con experiencia en la creación de APIs, gestión de datos y consumo de servicios en diferentes plataformas**  
 
 > 🎯 “La tecnología no solo resuelve problemas, también crea oportunidades”.
 
@@ -75,6 +76,7 @@
 - 🍽️ **App para restaurante** (gestión de ventas y reportes)
 - 🧮 **Calculadora de carga** en C# WinForms
 - 🌍 **Aplicaciones empresariales** con Laravel + APIs
+- 📊 **Dashboards de datos y reportes automatizados** con exportación a Excel
 
 ---
 
