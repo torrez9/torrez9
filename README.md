@@ -2,7 +2,7 @@
 <p align="center">💻 Desarrollador apasionado por la tecnología, la programación y la eficiencia. 🚀</p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,php,python,ts,js,cpp,bash,sql" alt="Lenguajes" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,python,js,ts,php,bash,sql,html,css,java,dart" alt="Lenguajes" />
 </div>
 
 ---
@@ -27,13 +27,13 @@
 ### 🖥️ Lenguajes de Programación
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,python,js,ts,php,bash,sql" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,python,js,ts,php,bash,sql,html,css,java,dart" />
 </div>
 
 ### 📦 Frameworks & Librerías
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,laravel,django,nodejs,express,jquery,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=dotnet,laravel,django,nodejs,express,jquery,bootstrap,flutter" />
 </div>
 
 ### 🗃️ Bases de Datos
@@ -45,7 +45,7 @@
 ### ⚙️ Herramientas y plataformas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=github,docker,postman,html,css,linux" />
+  <img src="https://skillicons.dev/icons?i=github,docker,postman,linux,git,vscode,visualstudio" />
 </div>
 
 ---
