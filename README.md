@@ -1,74 +1,97 @@
-# 👋 ¡Hola, soy _torrez9!  
+<h1 align="center">👋 ¡Hola! Soy <span style="color:#7A7ADB;">torrez9</span></h1>
+<p align="center">💻 Desarrollador apasionado por la tecnología, la programación y la eficiencia. 🚀</p>
 
-Bienvenido a mi perfil de GitHub. Soy un apasionado por la tecnología, la programación y el aprendizaje constante. Me especializo en el desarrollo de aplicaciones y sistemas que optimizan procesos y mejoran la eficiencia, especialmente en entornos empresariales y comerciales.  
-
----
-
-## 🚀 Sobre mí  
-🔹 Me encanta desarrollar proyectos innovadores y optimizar sistemas.  
-🔹 Siempre estoy aprendiendo nuevas tecnologías y aplicándolas en proyectos reales.  
-🔹 Busco colaborar en proyectos desafiantes y con impacto.  
-🔹 Me gusta ayudar a la comunidad con mis conocimientos y compartir soluciones.  
-🔹 Tengo experiencia en el desarrollo de aplicaciones con **.NET MAUI, Windows Forms, ASP.NET Core, MongoDB y Laravel**.  
-
----
-
-## 🛠️ Tecnologías y herramientas  
-
-<div align="left">
-
-### 💻 Lenguajes de programación  
-<img src="https://skillicons.dev/icons?i=python,js,php,sql,cpp,cs,ts,bash" />
-
-### 🛠️ Frameworks y librerías  
-<img src="https://skillicons.dev/icons?i=dotnet,laravel,django,nodejs,express,jquery,bootstrap" />
-
-### 📦 Bases de datos  
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" />
-
-### 🖥️ Otras herramientas  
-<img src="https://skillicons.dev/icons?i=github,docker,postman,html,css,linux" />
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,php,python,ts,js,cpp,bash,sql" alt="Lenguajes" />
 </div>
 
 ---
 
-## 📱 Desarrollo móvil y de escritorio  
+## 🚀 Sobre mí
 
-📌 **Aplicaciones en .NET MAUI:**  
-🔹 Desarrollo de aplicaciones móviles con integración a APIs.  
-🔹 Aplicación para reportes de ventas en un restaurante, con exportación a Excel.  
-🔹 Uso de arquitectura **MVVM** y almacenamiento local.  
+✨ Soy un desarrollador con enfoque en **aplicaciones de escritorio, móviles y web**, buscando siempre mejorar procesos y ofrecer soluciones de valor.
 
-📌 **Aplicaciones en Windows Forms con C#:**  
-🔹 Desarrollo de herramientas de productividad con **WinForms**.  
-🔹 **Calculadora de carga en C# WinForms** para optimización de tiempos.  
-🔹 Aplicaciones con bases de datos locales en SQLite y MySQL.  
+🧠 **Mentalidad de aprendizaje constante**  
+💡 **Creativo en la resolución de problemas**  
+🤝 **Dispuesto a colaborar en proyectos ambiciosos**  
+🔧 **Fan de la automatización y optimización**  
+📊 **Enfocado en entregar software funcional y escalable**
 
-📌 **Desarrollo Web con Laravel y ASP.NET Core:**  
-🔹 Desarrollo de sistemas de gestión y reportes.  
-🔹 Integración con bases de datos relacionales y NoSQL.  
+> 🎯 “La tecnología no solo resuelve problemas, también crea oportunidades”.
 
 ---
 
-## 📊 Proyectos destacados  
-📌 **Sistema de reportes con .NET MAUI y MongoDB** – Aplicación con exportación a Excel.  
-📌 **API REST con ASP.NET Core** – Integración con MongoDB para reportes empresariales.  
-📌 **Aplicación de restaurante en .NET MAUI** – Sistema de reportes y gestión de ventas.  
-📌 **Calculadora de carga en C# WinForms** – Herramienta para optimización de tiempos.  
-📌 **Desarrollo web con Laravel** – Aplicaciones empresariales con integración de APIs.  
+## 🧰 Tecnologías y herramientas
+
+### 🖥️ Lenguajes de Programación
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,cpp,python,js,ts,php,bash,sql" />
+</div>
+
+### 📦 Frameworks & Librerías
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,laravel,django,nodejs,express,jquery,bootstrap" />
+</div>
+
+### 🗃️ Bases de Datos
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
+</div>
+
+### ⚙️ Herramientas y plataformas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=github,docker,postman,html,css,linux" />
+</div>
 
 ---
 
-## 📫 ¡Hablemos!  
-📧 **Email:** [darwincarballo82@gmail.com](mailto:darwincarballo82@gmail.com)  
+## 📱 Aplicaciones desarrolladas
+
+### .NET MAUI (Móvil)
+- 📲 App de reportes de ventas para restaurante con **exportación a Excel**
+- 🧱 Arquitectura **MVVM**
+- 🗂️ Almacenamiento local y conexión con APIs REST
+
+### Windows Forms (Escritorio)
+- 🧮 **Calculadora de carga** para optimización de tiempos
+- 🗃️ Conexión a **SQLite y MySQL**
+- ⚒️ Herramientas de productividad internas
+
+### Laravel & ASP.NET Core (Web)
+- 🌐 Sistemas de gestión y análisis de datos
+- 🔄 CRUD completos e integraciones con APIs
+- 💾 Soporte para MongoDB y bases de datos relacionales
+
+---
+
+## 🚩 Proyectos destacados
+
+- 🧾 **Sistema de reportes empresariales** (.NET MAUI + MongoDB)
+- ⚙️ **API REST** con ASP.NET Core + MongoDB
+- 🍽️ **App para restaurante** (gestión de ventas y reportes)
+- 🧮 **Calculadora de carga** en C# WinForms
+- 🌍 **Aplicaciones empresariales** con Laravel + APIs
+
+---
+
+## 📫 Contacto
+
+💌 **Correo electrónico:** [darwincarballo82@gmail.com](mailto:darwincarballo82@gmail.com)
+
+---
+
+## 📈 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=torrez9&show_icons=true&count_private=true&hide=prs&theme=tokyonight&border_radius=12&title_color=7A7ADB&icon_color=F8D866&text_color=C5C5C5&bg_color=0,000000,130F40" alt="torrez9's Stats"/>
+</div>
 
 ---
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=torrez9&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="torrez9's Github Stats">
+  <b><i>“El aprendizaje es un viaje, no un destino.”</i></b> ✨  
 </div>
-
----
-
-✨ _"El aprendizaje es un viaje, no un destino."_
