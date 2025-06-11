@@ -32,7 +32,7 @@
 ### 📦 Frameworks & Librerías
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,react,laravel,django,nodejs,express,jquery,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=dotnet,laravel,django,nodejs,express,react,jquery,bootstrap" />
 </div>
 
 ### 🗃️ Bases de Datos
@@ -61,10 +61,11 @@
 - 🗃️ Conexión a **SQLite y MySQL**
 - ⚒️ Herramientas de productividad internas
 
-### Web (React, Laravel & ASP.NET Core)
-- 🌐 Interfaces interactivas y rápidas con **React**
+### Laravel, ASP.NET Core & React (Web)
+- 🌐 Sistemas de gestión y análisis de datos
 - 🔄 CRUD completos e integraciones con APIs
 - 💾 Soporte para MongoDB y bases de datos relacionales
+- ⚛️ Interfaces modernas y dinámicas con **React**
 
 ---
 
@@ -74,7 +75,8 @@
 - ⚙️ **API REST** con ASP.NET Core + MongoDB
 - 🍽️ **App para restaurante** (gestión de ventas y reportes)
 - 🧮 **Calculadora de carga** en C# WinForms
-- 🌍 **Aplicaciones empresariales** con Laravel y React
+- 🌍 **Aplicaciones empresariales** con Laravel + APIs
+- ⚛️ **Frontend interactivo con React** para paneles administrativos
 
 ---
 
