@@ -125,7 +125,25 @@
 ## 📈 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=torrez9&show_icons=true&count_private=true&hide=prs&theme=tokyonight&border_radius=12&title_color=7A7ADB&icon_color=F8D866&text_color=C5C5C5&bg_color=0,000000,130F40" alt="torrez9's Stats"/>
+  
+  <!-- Estadísticas principales -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=torrez9&show_icons=true&count_private=true&hide=prs&theme=tokyonight&border_radius=12&title_color=7A7ADB&icon_color=F8D866&text_color=C5C5C5&bg_color=0,000000,130F40" alt="torrez9's Stats"/>
+  
+  <!-- Lenguajes más usados -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torrez9&layout=compact&langs_count=8&theme=tokyonight&border_radius=12&title_color=7A7ADB&text_color=C5C5C5&bg_color=0,000000,130F40" alt="Lenguajes más usados"/>
+  
+  <!-- Racha de contribuciones -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=torrez9&theme=tokyonight&border_radius=12&date_format=j%20M%5B%20Y%5D&ring=7A7ADB&fire=7A7ADB&currStreakNum=C5C5C5&sideNums=C5C5C5&sideLabels=C5C5C5&currStreakLabel=7A7ADB" alt="Racha de contribuciones"/>
+  
+  <!-- Gráfico de actividad -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=torrez9&theme=github-dark&area=true&hide_border=true&custom_title=Mi%20Actividad%20GitHub&bg_color=000000&color=7A7ADB&line=C5C5C5&point=F8D866" alt="Gráfico de actividad"/>
+  
+  <!-- Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=torrez9&theme=onedark&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  
+  <!-- Estadísticas de contribuciones -->
+  <img src="https://github-contributor-stats.vercel.app/api?username=torrez9&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Estadísticas de contribuciones"/>
+  
 </div>
 
 ---
