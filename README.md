@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,python,js,ts,php,bash,sql,html,css,java,dart,kotlin" alt="Lenguajes" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,python,js,ts,php,bash,sql,html,css,java,dart,kotlin,mysql,vue" alt="Lenguajes" />
 </div>
 
 ---
@@ -25,7 +25,7 @@
 📊 **Enfocado en entregar software funcional y escalable**  
 📚 **Con experiencia en la creación de APIs, gestión de datos y consumo de servicios en diferentes plataformas**
 
-> 🎯 “La tecnología no solo resuelve problemas, también crea oportunidades”.
+> 🎯 "La tecnología no solo resuelve problemas, también crea oportunidades".
 
 ---
 
@@ -40,19 +40,27 @@
 ### 📦 Frameworks & Librerías
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,laravel,django,nodejs,express,jquery,bootstrap,flutter" />
+  <img src="https://skillicons.dev/icons?i=dotnet,laravel,django,nodejs,express,jquery,bootstrap,flutter,vue,nuxt" />
 </div>
 
 ### 🗃️ Bases de Datos
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
+  <p>Experiencia con <strong>XAMPP</strong> para entornos de desarrollo local</p>
+</div>
+
+### 🌐 Frontend Moderno
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vue,tailwind,js,ts" />
+  <p>Desarrollo con <strong>Vue 3 (Composition API)</strong> e <strong>Inertia.js</strong> para aplicaciones SPA</p>
 </div>
 
 ### ⚙️ Herramientas y plataformas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=github,docker,postman,linux,git,vscode,visualstudio,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=github,docker,postman,linux,git,vscode,visualstudio,androidstudio,xampp" />
 </div>
 
 ---
@@ -66,25 +74,31 @@
 
 ### 💻 Windows Forms (Escritorio)
 - 🧮 **Calculadora de carga** para optimización de tiempos
-- 🗃️ Conexión a **SQLite y MySQL**
+- 🗃️ Conexión a **SQLite y MySQL (XAMPP)**
 - ⚒️ Herramientas de productividad internas
 
-### 🌐 Laravel & ASP.NET Core (Web)
-- 🧠 Sistemas de gestión y análisis de datos
-- 🔁 CRUD completos e integraciones con APIs
-- 💾 Soporte para MongoDB y bases de datos relacionales
+### 🌐 Laravel + Inertia + Vue (Web)
+- 🧠 Sistemas de gestión con **Laravel + MySQL**
+- 🔥 Frontend reactivo con **Vue 3 e Inertia.js**
+- 📊 Dashboards interactivos con Chart.js
+- 🔁 CRUD completos con autenticación JWT
+
+### 🖥️ Aplicaciones Full Stack
+- 🌍 Portales empresariales con **Laravel (Backend) + Vue 3 (Frontend)**
+- 🔄 Integración de APIs REST con **Inertia.js** para navegación sin recargas
+- 📦 Uso de **XAMPP** para entornos de desarrollo local con MySQL
 
 ---
 
 ## 🚩 Proyectos destacados
 
 - 🧾 **Sistema de reportes empresariales** (.NET MAUI + MongoDB)
-- ⚙️ **API REST** con ASP.NET Core + MongoDB
+- ⚙️ **API REST** con ASP.NET Core + MySQL (XAMPP)
 - 🍽️ **App para restaurante** (gestión de ventas y reportes)
 - 🧮 **Calculadora de carga** en C# WinForms
-- 📱 **Prototipo Android con Kotlin y Jetpack**
-- 🌍 **Aplicaciones empresariales** con Laravel + APIs
-- 📊 **Dashboards de datos y reportes automatizados** con exportación a Excel
+- 📱 **Aplicación SPA** con Vue 3 + Inertia + Laravel
+- 🌍 **Dashboard administrativo** con Vue 3 + Chart.js
+- 📊 **Sistema CRM** con Laravel + Inertia + Vue 3
 
 ---
 
@@ -103,21 +117,9 @@
 ---
 
 <div align="center">
-  <b><i>📚 “El aprendizaje es un viaje, no un destino.”</i></b> ✨  
+  <b><i>📚 "El aprendizaje es un viaje, no un destino."</i></b> ✨  
 </div>
-
 
 <!--
 **torrez9/torrez9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
