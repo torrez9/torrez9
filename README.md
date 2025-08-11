@@ -35,14 +35,14 @@
 ### 📦 Frameworks & Librerías
 <div align="center">
   <img src="https://skillicons.dev/icons?i=dotnet,laravel,bootstrap,vue" />
-  <img src="https://img.shields.io/badge/.NET%20MAUI-512BD4?style=flat&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=flat&logo=dotnet&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=maui" />
+  <img src="https://skillicons.dev/icons?i=aspnet" />
 </div>
 
 ### 🗃️ Bases de Datos
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=mssql" />
 </div>
 
 ### 🌐 Frontend Moderno
@@ -54,6 +54,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=github,docker,postman,linux,git,vscode,visualstudio,xampp,idea,androidstudio" />
 </div>
+
 
 
 ---
