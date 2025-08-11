@@ -52,8 +52,9 @@
 
 ### ⚙️ Herramientas y plataformas
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=github,docker,postman,linux,git,vscode,visualstudio,xampp" />
+  <img src="https://skillicons.dev/icons?i=github,docker,postman,linux,git,vscode,visualstudio,xampp,idea,androidstudio" />
 </div>
+
 
 ---
 
