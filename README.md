@@ -29,30 +29,68 @@
 
 ### 🖥️ Lenguajes de Programación
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,js,php,html,css" />
+  <table>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=cs" width="48"/><br>C#</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=js" width="48"/><br>JavaScript</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=php" width="48"/><br>PHP</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS</td>
+    </tr>
+  </table>
 </div>
 
 ### 📦 Frameworks & Librerías
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,laravel,bootstrap,vue" />
-  <img src="https://skillicons.dev/icons?i=maui" />
-  <img src="https://skillicons.dev/icons?i=aspnet" />
+  <table>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=dotnet" width="48"/><br>.NET</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=laravel" width="48"/><br>Laravel</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br>Bootstrap</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=vue" width="48"/><br>Vue.js</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=maui" width="48"/><br>.NET MAUI</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=aspnet" width="48"/><br>ASP.NET Core</td>
+    </tr>
+  </table>
 </div>
 
 ### 🗃️ Bases de Datos
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=mssql" />
+  <table>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>MySQL</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=mssql" width="48"/><br>SQL Server</td>
+    </tr>
+  </table>
 </div>
 
 ### 🌐 Frontend Moderno
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vue,tailwind,js" />
+  <table>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=vue" width="48"/><br>Vue.js</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>Tailwind CSS</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=js" width="48"/><br>JavaScript</td>
+    </tr>
+  </table>
 </div>
 
 ### ⚙️ Herramientas y plataformas
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=github,docker,postman,linux,git,vscode,visualstudio,xampp,idea,androidstudio" />
+  <table>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=github" width="48"/><br>GitHub</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="48"/><br>Docker</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="48"/><br>Postman</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="48"/><br>Linux</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>VS Code</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=visualstudio" width="48"/><br>Visual Studio</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=xampp" width="48"/><br>XAMPP</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=idea" width="48"/><br>IntelliJ IDEA</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=androidstudio" width="48"/><br>Android Studio</td>
+    </tr>
+  </table>
 </div>
 
 
