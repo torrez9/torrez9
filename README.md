@@ -8,10 +8,6 @@
   <img src="https://img.shields.io/badge/Code%20With%20❤️%20In-C%23-blueviolet?style=flat-square" />
 </p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,python,js,ts,php,bash,mysql,html,css,java,dart,kotlin,vue" alt="Lenguajes" />
-</div>
-
 ---
 
 ## 🚀 Sobre mí
@@ -29,25 +25,26 @@
 
 ---
 
-## 🧰 Tecnologías y herramientas
+## 🧰 Tecnologías y herramientas  
+*(Estas son las herramientas y lenguajes con los que he trabajado)*
 
 ### 🖥️ Lenguajes de Programación
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,python,js,ts,php,bash,mysql,html,css,java,dart,kotlin" />
+  <img src="https://skillicons.dev/icons?i=cs,js,php,html,css" />
 </div>
 
 ### 📦 Frameworks & Librerías
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,laravel,django,nodejs,express,jquery,bootstrap,flutter,vue,nuxt" />
-  <p><strong>Animaciones:</strong> <img src="https://img.shields.io/badge/Framer_Motion-%23000000.svg?style=flat&logo=framer&logoColor=white" /> <img src="https://img.shields.io/badge/Motion-%23000000.svg?style=flat&logo=motion&logoColor=white" /></p>
+  <img src="https://skillicons.dev/icons?i=dotnet,laravel,bootstrap,vue" />
+  <p><strong>Animaciones:</strong> Framer Motion, Motion One, GSAP</p>
 </div>
 
 ### 🗃️ Bases de Datos
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white" />
   <p>Experiencia con <strong>XAMPP</strong> para entornos de desarrollo local</p>
 </div>
@@ -55,23 +52,15 @@
 ### 🌐 Frontend Moderno
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vue,tailwind,js,ts" />
+  <img src="https://skillicons.dev/icons?i=vue,tailwind,js" />
   <p>Desarrollo con <strong>Vue 3 (Composition API)</strong> e <strong>Inertia.js</strong> para aplicaciones SPA</p>
   <p><strong>Animaciones avanzadas:</strong> Framer Motion, Motion One, GSAP</p>
-</div>
-
-### 🎨 Animaciones y Efectos
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Framer_Motion-%23000000.svg?style=flat&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Motion_One-%23000000.svg?style=flat&logo=motion&logoColor=white" />
-  <img src="https://img.shields.io/badge/GSAP-%23000000.svg?style=flat&logo=greensock&logoColor=white" />
 </div>
 
 ### ⚙️ Herramientas y plataformas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=github,docker,postman,linux,git,vscode,visualstudio,androidstudio,xampp" />
+  <img src="https://skillicons.dev/icons?i=github,docker,postman,linux,git,vscode,visualstudio,xampp" />
 </div>
 
 ---
@@ -86,7 +75,7 @@
 
 ### 💻 Windows Forms (Escritorio)
 - 🧮 **Calculadora de carga** para optimización de tiempos
-- 🗃️ Conexión a **SQL Server, SQLite y MySQL (XAMPP)**
+- 🗃️ Conexión a **SQL Server y MySQL (XAMPP)**
 - ⚒️ Herramientas de productividad internas
 
 ### 🌐 Laravel + Inertia + Vue (Web)
@@ -96,17 +85,11 @@
 - 📊 Dashboards interactivos con Chart.js + animaciones GSAP
 - 🔁 CRUD completos con autenticación JWT
 
-### 🖥️ Aplicaciones Full Stack
-- 🌍 Portales empresariales con **Laravel (Backend) + Vue 3 (Frontend)**
-- 🔄 Integración de APIs REST con **Inertia.js** para navegación sin recargas
-- 🎬 **Efectos visuales** con Framer Motion para mejor UX
-- 📦 Uso de **XAMPP** para entornos de desarrollo local con MySQL
-
 ---
 
 ## 🚩 Proyectos destacados
 
-- 🧾 **Sistema de reportes empresariales** (.NET MAUI + MongoDB)
+- 🧾 **Sistema de reportes empresariales** (.NET MAUI + SQL Server)
 - ⚙️ **API REST** con ASP.NET Core + SQL Server
 - 🍽️ **App para restaurante** (gestión de ventas y reportes) con animaciones Framer Motion
 - 🧮 **Calculadora de carga** en C# WinForms
@@ -148,12 +131,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=torrez9&theme=github-dark&area=true&hide_border=true&custom_title=Mi%20Actividad%20GitHub&bg_color=000000&color=7A7ADB&line=C5C5C5&point=F8D866&area_color=7A7ADB&hide_title=false" alt="Gráfico de actividad" style="width: 100%;"/>
 </div>
 
-### 🏆 Contribuciones Destacadas
-
-<div style="width: 100%;">
-  <img src="https://github-contributor-stats.vercel.app/api?username=torrez9&limit=5&theme=dark&combine_all_yearly_contributions=true&show_icons=true&icon_color=7A7ADB&title_color=7A7ADB" alt="Estadísticas de contribuciones" style="width: 100%;"/>
-</div>
-
 </div>
 
 ---
@@ -161,7 +138,3 @@
 <div align="center">
   <b><i>📚 "El aprendizaje es un viaje, no un destino."</i></b> ✨  
 </div>
-
-<!--
-**torrez9/torrez9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
