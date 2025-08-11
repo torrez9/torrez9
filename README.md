@@ -138,13 +138,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=torrez9&theme=onedark&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15&title=Commits,Repositories,PullRequest,Stars" alt="GitHub Trophies"/>
 </a>
 
----
-
-### 📊 Contribuciones por Año  
-<a href="https://github.com/torrez9">
-  <img src="https://github-contributor-stats.vercel.app/api?username=torrez9&limit=5&theme=dark&combine_all_yearly_contributions=true&show_icons=true&icon_color=7A7ADB&title_color=7A7ADB" alt="Estadísticas de contribuciones"/>
-</a>
-
 </div>
 
 
