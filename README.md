@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hola! Soy <span style="color:#7A7ADB;">torrez9</span></h1>
+<h1 align="center">👋 ¡Hola! Soy <span style="color:#7A7ADB;">Jose Torrez</span></h1>
 <p align="center">💻 Desarrollador apasionado por la tecnología, la programación y la eficiencia. 🚀</p>
 
 <p align="center">
