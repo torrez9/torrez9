@@ -1,5 +1,5 @@
-<h1 align="center">👋 ¡Hola! Soy <span style="color:#7A7ADB;">Jose Torrez</span></h1>
-<p align="center">💻 Desarrollador apasionado por la tecnología, la programación y la eficiencia. 🚀</p>
+<h1 align="center">👋 Hi! I'm <span style="color:#7A7ADB;">Jose Torrez</span></h1>
+<p align="center">💻 Developer passionate about technology, programming, and efficiency. 🚀</p>
 
 <p align="center">
   <a href="mailto:darwincarballo82@gmail.com"><img src="https://img.shields.io/badge/email-darwincarballo82@gmail.com-blue?style=flat-square&logo=gmail" /></a>
@@ -10,24 +10,24 @@
 
 ---
 
-## 🚀 Sobre mí
+## 🚀 About Me
 
-✨ Desarrollador con enfoque en **aplicaciones de escritorio, móviles y web**, buscando siempre mejorar procesos y ofrecer soluciones de valor.
+✨ Developer focused on **desktop, mobile, and web applications**, always striving to improve processes and deliver valuable solutions.
 
-🧠 **Mentalidad de aprendizaje constante**  
-💡 **Creativo en la resolución de problemas**  
-🤝 **Dispuesto a colaborar en proyectos ambiciosos**  
-🔧 **Fan de la automatización y optimización**  
-📊 **Enfocado en entregar software funcional y escalable**  
-📚 **Experiencia en APIs, gestión de datos y consumo de servicios**
+🧠 **Constant learning mindset**  
+💡 **Creative problem solver**  
+🤝 **Willing to collaborate on ambitious projects**  
+🔧 **Fan of automation and optimization**  
+📊 **Focused on delivering functional and scalable software**  
+📚 **Experience in APIs, data management, and service consumption**
 
-> 🎯 "La tecnología no solo resuelve problemas, también crea oportunidades".
+> 🎯 "Technology not only solves problems, it also creates opportunities."
 
 ---
 
-## 🧰 Tecnologías y herramientas
+## 🧰 Technologies & Tools
 
-### 🖥️ Lenguajes de Programación
+### 🖥️ Programming Languages
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
@@ -36,7 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
 </div>
 
-### 📦 Frameworks & Librerías
+### 📦 Frameworks & Libraries
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="48" height="48" alt=".NET" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="48" height="48" alt=".NET Core" />
@@ -44,13 +44,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue.js" />
 </div>
 
-### 🗃️ Bases de Datos
+### 🗃️ Databases
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server" />
 </div>
 
-### ⚙️ Herramientas y plataformas
+### ⚙️ Tools & Platforms
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
@@ -65,66 +65,66 @@
 
 ---
 
-## 📱 Aplicaciones desarrolladas
+## 📱 Developed Applications
 
-### 📱 .NET MAUI (Móvil)
-- 📲 App de reportes de ventas para restaurante con **exportación a Excel**
-- 🧱 Arquitectura **MVVM**
-- 🌐 Conexión con APIs REST
-- 🌀 Animaciones fluidas
+### 📱 .NET MAUI (Mobile)
+- 📲 Sales reports app for restaurants with **Excel export**
+- 🧱 **MVVM architecture**
+- 🌐 REST API integration
+- 🌀 Smooth animations
 
 ### 🌐 ASP.NET Core (Web)
-- ⚙️ **API REST** con autenticación JWT
-- 📊 Dashboards con Chart.js
-- 🌐 Consumo desde apps móviles y web
+- ⚙️ **REST API** with JWT authentication
+- 📊 Dashboards with Chart.js
+- 🌐 Consumed by mobile and web apps
 
-### 💻 Windows Forms (Escritorio)
-- 🧮 Calculadora de carga
-- 🗃️ Conexión a SQL Server y MySQL
+### 💻 Windows Forms (Desktop)
+- 🧮 Load calculator
+- 🗃️ SQL Server and MySQL integration
 
 ### 🌐 Laravel + Inertia + Vue
-- 🧠 Sistemas de gestión
-- 🔁 CRUD completos
-- 🌀 Transiciones avanzadas
+- 🧠 Management systems
+- 🔁 Full CRUD operations
+- 🌀 Advanced transitions
 
 ---
 
-## 🚩 Proyectos destacados
-- **Sistema de reportes empresariales** (.NET MAUI + SQL Server)
-- **API REST** con ASP.NET Core + SQL Server
-- **App para restaurante** (gestión de ventas y reportes)
-- **Calculadora de carga** en C# WinForms
-- **Aplicación SPA** con Vue 3 + Laravel + Motion One
-- **Dashboard administrativo** con Vue 3 + Chart.js
+## 🚩 Featured Projects
+- **Business reporting system** (.NET MAUI + SQL Server)  
+- **REST API** with ASP.NET Core + SQL Server  
+- **Restaurant app** (sales and reporting management)  
+- **Load calculator** in C# WinForms  
+- **SPA application** with Vue 3 + Laravel + Motion One  
+- **Admin dashboard** with Vue 3 + Chart.js  
 
 ---
 
-## 📊 Estadísticas GitHub
+## 📊 GitHub Stats
 <div align="center">
 
-### 📈 Métricas Generales  
+### 📈 General Metrics  
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=torrez9&show_icons=true&count_private=true&hide=prs&theme=tokyonight&border_radius=12&title_color=7A7ADB&icon_color=F8D866&text_color=C5C5C5&bg_color=0,000000,130F40&include_all_commits=true" />
 
 <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=torrez9&theme=tokyonight&border_radius=12&date_format=j%20M%5B%20Y%5D&ring=7A7ADB&fire=7A7ADB&currStreakNum=C5C5C5&sideNums=C5C5C5&sideLabels=C5C5C5&currStreakLabel=7A7ADB" />
 
 ---
 
-### 💻 Lenguajes Más Usados  
+### 💻 Most Used Languages  
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torrez9&layout=compact&langs_count=8&theme=tokyonight&border_radius=12&title_color=7A7ADB&text_color=C5C5C5&bg_color=0,000000,130F40" />
 
 ---
 
-### 📆 Actividad Reciente  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=torrez9&theme=tokyo-night&area=true&hide_border=true&custom_title=Actividad%20en%20GitHub&bg_color=000000&color=7A7ADB&line=C5C5C5&point=F8D866&area_color=7A7ADB" style="width: 100%;" />
+### 📆 Recent Activity  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=torrez9&theme=tokyo-night&area=true&hide_border=true&custom_title=GitHub%20Activity&bg_color=000000&color=7A7ADB&line=C5C5C5&point=F8D866&area_color=7A7ADB" style="width: 100%;" />
 
 ---
 
-### 🏆 Logros y Trofeos  
+### 🏆 Achievements & Trophies  
 <img src="https://github-profile-trophy.vercel.app/?username=torrez9&theme=onedark&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15&title=Commits,Repositories,PullRequest,Stars" />
 </div>
 
 ---
 
 <div align="center">
-  <b><i>📚 "El aprendizaje es un viaje, no un destino."</i></b> ✨  
+  <b><i>📚 "Learning is a journey, not a destination."</i></b> ✨  
 </div>
