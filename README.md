@@ -29,71 +29,40 @@
 
 ### 🖥️ Lenguajes de Programación
 <div align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=cs" width="48"/><br>C#</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=js" width="48"/><br>JavaScript</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=php" width="48"/><br>PHP</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS</td>
-    </tr>
-  </table>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
 </div>
 
 ### 📦 Frameworks & Librerías
 <div align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=dotnet" width="48"/><br>.NET</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=laravel" width="48"/><br>Laravel</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br>Bootstrap</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=vue" width="48"/><br>Vue.js</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=maui" width="48"/><br>.NET MAUI</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=aspnet" width="48"/><br>ASP.NET Core</td>
-    </tr>
-  </table>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="48" height="48" alt=".NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="48" height="48" alt=".NET Core" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="48" height="48" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue.js" />
 </div>
 
 ### 🗃️ Bases de Datos
 <div align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>MySQL</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=mssql" width="48"/><br>SQL Server</td>
-    </tr>
-  </table>
-</div>
-
-### 🌐 Frontend Moderno
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=vue" width="48"/><br>Vue.js</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>Tailwind CSS</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=js" width="48"/><br>JavaScript</td>
-    </tr>
-  </table>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server" />
 </div>
 
 ### ⚙️ Herramientas y plataformas
 <div align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=github" width="48"/><br>GitHub</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="48"/><br>Docker</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="48"/><br>Postman</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="48"/><br>Linux</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>VS Code</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=visualstudio" width="48"/><br>Visual Studio</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=xampp" width="48"/><br>XAMPP</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=idea" width="48"/><br>IntelliJ IDEA</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=androidstudio" width="48"/><br>Android Studio</td>
-    </tr>
-  </table>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" height="48" alt="Postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="48" height="48" alt="Visual Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="48" height="48" alt="Android Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="48" height="48" alt="IntelliJ" />
 </div>
-
-
 
 ---
 
