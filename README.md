@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi! I'm <span style="color:#7A7ADB;">Jose Torrez</span></h1>
-<p align="center">💻 Developer passionate about technology, programming, and efficiency. 🚀</p>
+<p align="center">💻 Full-Stack Developer & DevOps Engineer passionate about technology, scalable solutions, and automation. 🚀</p>
 
 <p align="center">
   <a href="mailto:darwincarballo82@gmail.com"><img src="https://img.shields.io/badge/email-darwincarballo82@gmail.com-blue?style=flat-square&logo=gmail" /></a>
@@ -12,14 +12,15 @@
 
 ## 🚀 About Me
 
-✨ Developer focused on **desktop, mobile, and web applications**, always striving to improve processes and deliver valuable solutions.
+✨ Full-Stack Developer & **DevOps Engineer** focused on **web applications**, **server infrastructure**, and **cloud deployment**, always striving to improve processes and deliver valuable solutions.
 
 🧠 **Constant learning mindset**  
 💡 **Creative problem solver**  
 🤝 **Willing to collaborate on ambitious projects**  
 🔧 **Fan of automation and optimization**  
 📊 **Focused on delivering functional and scalable software**  
-📚 **Experience in APIs, data management, and service consumption**
+🌐 **Experience in server management, VPS deployment, and production environments**  
+📚 **APIs, databases, containerization, and CI/CD pipelines**
 
 > 🎯 "Technology not only solves problems, it also creates opportunities."
 
@@ -28,49 +29,41 @@
 ## 🧰 Technologies & Tools
 
 ### 🖥️ Programming Languages
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,python,html,css,cs,php,bash" />
+  </a>
+</p>
 
 ### 📦 Frameworks & Libraries
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" width="48" height="48" alt="Vuetify" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
-  <img src="https://avatars.githubusercontent.com/u/47703742?s=200&v=4" width="48" height="48" alt="Inertia.js" />
-  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="48" height="48" alt="Shadcn UI" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="48" height="48" alt=".NET" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="48" height="48" alt="Laravel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" />
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vue,react,vuetify,bootstrap,dotnet,laravel,django" />
+  </a>
+</p>
 
 ### 🗃️ Databases
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server" />
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgresql" />
+  </a>
+</p>
 
-### ⚙️ Tools & Platforms
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" height="48" alt="Postman" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="48" height="48" alt="Visual Studio" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nvidia/nvidia-original.svg" width="48" height="48" alt="CUDA" />
-</div>
+### ⚙️ DevOps & Server Management
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,githubactions,bash,postman,vscode,visualstudio" />
+  </a>
+</p>
 
+**🌐 Infrastructure & Deployment:**
+- **VPS Management**: Contabo VPS, cloud servers, remote administration
+- **Web Servers**: Nginx, Apache, PHP-FPM configuration and optimization
+- **Deployment**: Application deployment, server provisioning, environment configuration
+- **SSH**: Remote server access, key-based authentication, secure connections
+- **Process Management**: Service monitoring, log analysis, troubleshooting
+- **Database Administration**: MySQL/MariaDB management, backups, optimization
+- **Security**: Server hardening, firewall configuration, SSL/TLS certificates
 
 ---
 
@@ -92,9 +85,10 @@
 - 🗃️ SQL Server and MySQL integration
 
 ### 🌐 Laravel + Inertia + Vue
-- 🧠 Management systems
-- 🔁 Full CRUD operations
-- 🌀 Advanced transitions
+- 🧠 Management systems with full-stack integration
+- 🔁 Full CRUD operations with optimized queries
+- 🌀 Advanced transitions and SPA experience
+- 🚀 **Deployed on VPS** with Nginx and optimized performance
 
 ### 💻 C# (Desktop/Console)
 - 🔢 Financial and math calculators
@@ -116,7 +110,6 @@
 - 🔄 MySQL and PostgreSQL integration
 - 🖼️ Blade templating with responsive UI
 
-
 ---
 
 ## 🚩 Featured Projects
@@ -126,6 +119,29 @@
 - **Load calculator** in C# WinForms  
 - **SPA application** with Vue 3 + Laravel + Motion One  
 - **Admin dashboard** with Vue 3 + Chart.js  
+- **Production deployment** on Contabo VPS with Docker + Nginx
+
+---
+
+## 🛠️ DevOps & Infrastructure Experience
+
+### 🌐 Server & VPS Management
+- **VPS Provider**: Contabo VPS management and configuration
+- **Operating Systems**: Debian, Ubuntu Server, CentOS
+- **Web Servers**: Nginx, Apache configuration and optimization
+- **PHP Runtime**: PHP-FPM setup, memory tuning, performance optimization
+
+### 🐳 Containerization & Deployment
+- **Docker**: Container orchestration, image creation, multi-container apps
+- **Application Deployment**: Laravel, Vue.js, Node.js applications
+- **Environment Management**: Development, staging, production environments
+- **Process Monitoring**: Server logs, error tracking, performance metrics
+
+### 🔐 Security & Administration
+- **SSH Management**: Key-based authentication, secure remote access
+- **Database Administration**: MySQL/MariaDB backups, user management, query optimization
+- **Git Workflow**: Version control, branching strategies, automated deployments
+- **Troubleshooting**: Server errors, application debugging, log analysis
 
 ---
 
@@ -156,5 +172,7 @@
 ---
 
 <div align="center">
-  <b><i>📚 "Learning is a journey, not a destination."</i></b> ✨  
+  <b><i>📚 "Code is poetry, deployment is art."</i></b> ✨  
+  <br><br>
+  <img src="https://img.shields.io/badge/Made%20with-❤️%20and%20☕-red?style=for-the-badge" />
 </div>
