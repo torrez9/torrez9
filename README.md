@@ -163,11 +163,7 @@
 ### 📆 Recent Activity  
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=torrez9&theme=tokyo-night&area=true&hide_border=true&custom_title=GitHub%20Activity&bg_color=000000&color=7A7ADB&line=C5C5C5&point=F8D866&area_color=7A7ADB" style="width: 100%;" />
 
----
 
-### 🏆 Achievements & Trophies  
-<img src="https://github-profile-trophy.vercel.app/?username=torrez9&theme=onedark&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15&title=Commits,Repositories,PullRequest,Stars" />
-</div>
 
 ---
 
