@@ -20,9 +20,9 @@
 🔧 **Fan of automation and optimization**  
 📊 **Focused on delivering functional and scalable software**  
 🌐 **Experience in server management, VPS deployment, and production environments**  
-📚 **APIs, databases, containerization, and CI/CD pipelines**
+📚 **Expert in APIs, databases, containerization, and CI/CD pipelines**
 
-> 🎯 "Technology not only solves problems, it also creates opportunities."
+> 🎯 *"Technology not only solves problems, it also creates opportunities."*
 
 ---
 
@@ -49,7 +49,7 @@
   </a>
 </p>
 
-### ⚙️ DevOps & Server Management
+### ⚙️ DevOps & Development Tools
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,githubactions,bash,postman,vscode,visualstudio" />
@@ -71,33 +71,34 @@
 
 ### 📱 .NET MAUI (Mobile)
 - 📲 Sales reports app for restaurants with **Excel export**
-- 🧱 **MVVM architecture**
+- 🧱 **MVVM architecture** implementation
 - 🌐 REST API integration
-- 🌀 Smooth animations
+- 🌀 Smooth animations and transitions
 
 ### 🌐 ASP.NET Core (Web)
 - ⚙️ **REST API** with JWT authentication
-- 📊 Dashboards with Chart.js
-- 🌐 Consumed by mobile and web apps
+- 📊 Interactive dashboards with Chart.js
+- 🌐 Consumed by mobile and web applications
 
 ### 💻 Windows Forms (Desktop)
-- 🧮 Load calculator
+- 🧮 Advanced load calculator
 - 🗃️ SQL Server and MySQL integration
+- 🎨 Modern UI with responsive design
 
 ### 🌐 Laravel + Inertia + Vue
-- 🧠 Management systems with full-stack integration
+- 🧠 Enterprise management systems with full-stack integration
 - 🔁 Full CRUD operations with optimized queries
-- 🌀 Advanced transitions and SPA experience
+- 🌀 Advanced transitions and seamless SPA experience
 - 🚀 **Deployed on VPS** with Nginx and optimized performance
 
 ### 💻 C# (Desktop/Console)
-- 🔢 Financial and math calculators
-- 🗂️ File and database utilities
+- 🔢 Financial and mathematical calculators
+- 🗂️ File management and database utilities
 - 🖥️ Console automation tools
 
 ### 🌐 .NET (Web/Services)
-- 🔐 Identity and role-based access
-- 📡 SOAP and REST integrations
+- 🔐 Identity management and role-based access control
+- 📡 SOAP and REST API integrations
 - 🛠️ Microservices architecture
 
 ### ⚛️ React (Web)
@@ -113,13 +114,14 @@
 ---
 
 ## 🚩 Featured Projects
-- **Business reporting system** (.NET MAUI + SQL Server)  
-- **REST API** with ASP.NET Core + SQL Server  
-- **Restaurant app** (sales and reporting management)  
-- **Load calculator** in C# WinForms  
-- **SPA application** with Vue 3 + Laravel + Motion One  
-- **Admin dashboard** with Vue 3 + Chart.js  
-- **Production deployment** on Contabo VPS with Docker + Nginx
+
+- 📊 **Business reporting system** (.NET MAUI + SQL Server)  
+- 🔌 **REST API** with ASP.NET Core + SQL Server  
+- 🍽️ **Restaurant management app** (sales and reporting)  
+- 🧮 **Load calculator** in C# WinForms  
+- ⚡ **SPA application** with Vue 3 + Laravel + Motion One  
+- 📈 **Admin dashboard** with Vue 3 + Chart.js  
+- 🐳 **Production deployment** on Contabo VPS with Docker + Nginx
 
 ---
 
@@ -132,7 +134,7 @@
 - **PHP Runtime**: PHP-FPM setup, memory tuning, performance optimization
 
 ### 🐳 Containerization & Deployment
-- **Docker**: Container orchestration, image creation, multi-container apps
+- **Docker**: Container orchestration, image creation, multi-container applications
 - **Application Deployment**: Laravel, Vue.js, Node.js applications
 - **Environment Management**: Development, staging, production environments
 - **Process Monitoring**: Server logs, error tracking, performance metrics
@@ -141,11 +143,12 @@
 - **SSH Management**: Key-based authentication, secure remote access
 - **Database Administration**: MySQL/MariaDB backups, user management, query optimization
 - **Git Workflow**: Version control, branching strategies, automated deployments
-- **Troubleshooting**: Server errors, application debugging, log analysis
+- **Troubleshooting**: Server errors, application debugging, comprehensive log analysis
 
 ---
 
 ## 📊 GitHub Stats
+
 <div align="center">
 
 ### 📈 General Metrics  
@@ -163,12 +166,14 @@
 ### 📆 Recent Activity  
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=torrez9&theme=tokyo-night&area=true&hide_border=true&custom_title=GitHub%20Activity&bg_color=000000&color=7A7ADB&line=C5C5C5&point=F8D866&area_color=7A7ADB" style="width: 100%;" />
 
-
+</div>
 
 ---
 
 <div align="center">
-  <b><i>📚 "Code is poetry, deployment is art."</i></b> ✨  
+  <b><i>📚 "Code is poetry, deployment is art." ✨</i></b>  
   <br><br>
   <img src="https://img.shields.io/badge/Made%20with-❤️%20and%20☕-red?style=for-the-badge" />
+  <br><br>
+  <b>⭐ If you like my work, consider giving a star to my repositories!</b>
 </div>
