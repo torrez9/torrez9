@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7A7ADB,130F40&height=200&section=header&text=Jose%20Torrez&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%26%20DevOps%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:130F40,100:7A7ADB&height=200&section=header&text=Jose%20Torrez&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%26%20DevOps%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+
+<br/>
 
 <a href="mailto:darwincarballo82@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-darwincarballo82@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -34,10 +36,10 @@ focus:
   - Server Infrastructure & Cloud Deployment
   - Docker Containerization & CI/CD Pipelines
 traits:
-  - Constant learning mindset 🧠
-  - Creative problem solver 💡
-  - Automation & optimization fan 🔧
-  - Open to collaboration on ambitious projects 🤝
+  - Constant learning mindset        🧠
+  - Creative problem solver          💡
+  - Automation & optimization fan    🔧
+  - Open to ambitious collaborations 🤝
 ```
 
 ---
@@ -46,22 +48,22 @@ traits:
 
 ### 🖥️ Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,kotlin,python,php,html,css,cs,bash&perline=9" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,kotlin,python,php,html,css,cs,bash&perline=9"/>
 </div>
 
 ### 📦 Frameworks & Libraries
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vue,react,laravel,dotnet,django,bootstrap,vuetify,materialui&perline=8" />
+  <img src="https://skillicons.dev/icons?i=vue,react,laravel,dotnet,django,bootstrap,vuetify,materialui&perline=8"/>
 </div>
 
 ### 🗃️ Databases
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite&perline=4" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite&perline=4"/>
 </div>
 
 ### ⚙️ DevOps & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,githubactions,postman,vscode,androidstudio,bash&perline=10" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,githubactions,postman,vscode,androidstudio,bash&perline=10"/>
 </div>
 
 ---
@@ -131,11 +133,11 @@ Secrets Mgmt   : Secure environment variable handling
 &nbsp;
 <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=torrez9&theme=tokyonight&border_radius=12&ring=7A7ADB&fire=7A7ADB&currStreakNum=C5C5C5&sideNums=C5C5C5&sideLabels=C5C5C5&currStreakLabel=7A7ADB"/>
 
-<br/>
+<br/><br/>
 
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torrez9&layout=compact&langs_count=10&theme=tokyonight&border_radius=12&title_color=7A7ADB&text_color=C5C5C5&bg_color=0,000000,130F40"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=torrez9&theme=tokyo-night&area=true&hide_border=true&custom_title=Contribution%20Activity&bg_color=000000&color=7A7ADB&line=C5C5C5&point=F8D866&area_color=7A7ADB" width="95%"/>
 
@@ -162,6 +164,6 @@ Secrets Mgmt   : Secure environment variable handling
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=130F40,7A7ADB&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A7ADB,100:130F40&height=120&section=footer" width="100%"/>
 
 </div>
