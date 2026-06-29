@@ -22,13 +22,13 @@
 
 <br/><br/>
 
-> **"Technology not only solves problems — it creates opportunities."**
+> "Technology not only solves problems — it creates opportunities."
 
 </div>
 
 ---
 
-# About Me
+## About Me
 
 ```yaml
 name: Jose Torrez
