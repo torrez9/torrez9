@@ -108,7 +108,7 @@ current_focus:
     <tr>
       <td align="center">
         <a href="https://github.com/torrez9">
-          <img src="https://github-readme-stats.vercel.app/api?username=torrez9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=a855f7&icon_color=818cf8&text_color=94a3b8&bg_color=0b0f19" height="175" alt="Jose GitHub Stats"/>
+          <img src="https://github-stats-extended.vercel.app/api?username=torrez9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=a855f7&icon_color=818cf8&text_color=94a3b8&bg_color=0b0f19" height="175" alt="Jose GitHub Stats"/>
         </a>
       </td>
       <td align="center">
@@ -120,7 +120,7 @@ current_focus:
     <tr>
       <td colspan="2" align="center">
         <a href="https://github.com/torrez9">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torrez9&layout=compact&theme=tokyonight&hide_border=true&title_color=a855f7&text_color=94a3b8&bg_color=0b0f19" height="175" alt="Top Languages"/>
+          <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=torrez9&layout=compact&theme=tokyonight&hide_border=true&title_color=a855f7&text_color=94a3b8&bg_color=0b0f19" height="175" alt="Top Languages"/>
         </a>
       </td>
     </tr>
@@ -130,7 +130,7 @@ current_focus:
 
   <!-- Activity Contribution Graph -->
   <a href="https://github.com/torrez9">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=torrez9&theme=tokyo-night&hide_border=true&color=a855f7&point=818cf8&line=a855f7" width="100%" alt="GitHub Activity Graph"/>
+    <img src="https://ghchart.rshah.org/818cf8/torrez9" width="100%" alt="Jose's Contribution Graph"/>
   </a>
 
 </div>
