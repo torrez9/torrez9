@@ -130,7 +130,7 @@ current_focus:
 
   <!-- Activity Contribution Graph -->
   <a href="https://github.com/torrez9">
-    <img src="https://ghchart.rshah.org/818cf8/torrez9" width="100%" alt="Jose's Contribution Graph"/>
+    <img src="https://gitcolors.vercel.app/api/svg?username=torrez9&theme=dark&color=a855f7" width="100%" alt="Jose's Contribution Graph"/>
   </a>
 
 </div>
