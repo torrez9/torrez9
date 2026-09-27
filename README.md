@@ -19,6 +19,9 @@
     <img src="https://komarev.com/ghpvc/?username=torrez9&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile Views"/>
     <img src="https://img.shields.io/badge/Location-Nicaragua-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
     <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-10B981?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Status"/>
+    <a href="LICENSE">
+      <img src="https://img.shields.io/badge/License-MIT-8B5CF6?style=for-the-badge" alt="License MIT"/>
+    </a>
   </p>
 
   <!-- Quote -->
@@ -155,6 +158,12 @@ current_focus:
   </a>
 
 </div>
+
+---
+
+### License
+
+This repository is open-source and licensed under the [MIT License](LICENSE).
 
 <!-- Footer Wave Banner -->
 <div align="center">
