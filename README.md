@@ -1,14 +1,12 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,35:1e1b4b,70:4338ca,100:7c3aed&height=230&section=header&text=Jose%20Torrez&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20DevOps%20%26%20Cloud%20Architect%20%7C%20Systems%20Engineer&descAlignY=58&descSize=19" width="100%" alt="Jose Torrez Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,35:1e1b4b,70:4338ca,100:7c3aed&height=230&section=header&text=Jose%20Torrez&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20DevOps%20Engineer%20%7C%20Systems%20Engineering&descAlignY=58&descSize=19" width="100%" alt="Jose Torrez Header"/>
 
-  <!-- Typing Dynamic Text -->
-  <a href="https://github.com/torrez9">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=900&color=A855F7&center=true&vCenter=true&width=900&lines=%E2%9A%A1+Building+high-impact%2C+scalable+web+%26+mobile+solutions;%F0%9F%92%BB+Full-Stack+Engineer+%7C+Laravel+%2B+Vue.js+%2B+Inertia.js;%E2%98%81%EF%B8%8F+DevOps%2C+CI%2FCD+Pipelines+%26+Cloud+Infrastructure;%F0%9F%9A%80+Turning+complex+problems+into+elegant+architectures" alt="Typing SVG"/>
-  </a>
-
-  <br/>
+  <!-- Typing Dynamic Text Animation -->
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=750&height=50&lines=Full-Stack+Developer+%26+Systems+Engineer;Laravel+%2B+Vue.js+%2B+Inertia.js+Specialist;DevOps+%26+Cloud+Infrastructure+Enthusiast;Building+scalable+and+reliable+software+solutions" alt="Typing Dynamic Animation"/>
+  </p>
 
   <!-- Quick Badges & Profile Metrics -->
   <p align="center">
@@ -19,27 +17,27 @@
       <img src="https://img.shields.io/github/followers/torrez9?label=Followers&style=for-the-badge&logo=github&color=6366F1&logoColor=white" alt="GitHub Followers"/>
     </a>
     <img src="https://komarev.com/ghpvc/?username=torrez9&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile Views"/>
-    <img src="https://img.shields.io/badge/Location-Nicaragua%20🇳🇮-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+    <img src="https://img.shields.io/badge/Location-Nicaragua-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
     <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-10B981?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Status"/>
   </p>
 
   <!-- Quote -->
   <p>
-    <em>"Technology doesn't just solve problems — it architects new opportunities for growth."</em> 💡
+    <em>"Technology does not just solve problems — it architects new opportunities for growth."</em>
   </p>
 
 </div>
 
 ---
 
-### 👨‍💻 Sobre Mí / About Me
+### About Me
 
 ```yaml
 developer:
   name: Jose Torrez
   title: Full-Stack Developer & DevOps Practitioner
   education: Systems Engineering
-  origin: Nicaragua 🇳🇮
+  origin: Nicaragua
   passions:
     - Designing high-availability backend systems
     - Crafting fluid, reactive UI/UX interfaces
@@ -54,31 +52,31 @@ current_focus:
 
 ---
 
-### 🛠️ Tech Stack & Ecosystem
+### Tech Stack & Ecosystem
 
 <div align="center">
 
-#### ⚙️ Backend & Architecture
+#### Backend & Architecture
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,kotlin&theme=dark" alt="Backend Technologies" />
 </p>
 
-#### 🎨 Frontend & User Interface
+#### Frontend & User Interface
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vue,js,ts,html,css,tailwind&theme=dark" alt="Frontend Technologies" />
 </p>
 
-#### 🗄️ Databases & Caching
+#### Databases & Caching
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb&theme=dark" alt="Databases" />
 </p>
 
-#### ☁️ DevOps, Cloud & Environments
+#### DevOps, Cloud & Environments
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,aws,nginx,linux,bash,githubactions,git&theme=dark" alt="DevOps & Tools" />
 </p>
 
-#### 🧰 Tools & Development Workflow
+#### Tools & Development Workflow
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,postman,figma,github&theme=dark" alt="Tools" />
 </p>
@@ -87,19 +85,19 @@ current_focus:
 
 ---
 
-### 🚀 Proyectos Destacados / Featured Projects
+### Featured Projects
 
-| Proyecto | Descripción | Stack Tecnológico | Estado |
+| Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :---: |
-| 💳 **[MasterCredit SA](https://github.com/torrez9)** | Sistema integral para gestión financiera de préstamos, cobranzas, reportes y amortizaciones. | `Laravel` `Vue.js` `MySQL` `Tailwind` | 🟢 En Producción |
-| 💊 **[FarmaciaHarold](https://github.com/torrez9)** | Plataforma administrativa y comercial para inventario farmacéutico, ventas POS y facturación. | `Laravel` `Inertia.js` `MySQL` | 🟢 En Producción |
-| 🧠 **[MindTrack](https://github.com/torrez9)** | Aplicación móvil para trazabilidad de hábitos, métricas de productividad y bienestar personal. | `React Native` `Kotlin` `REST API` | 🚀 Activo |
-| ⏰ **[RecordatorioApp](https://github.com/torrez9)** | Solución móvil para sincronización y gestión de alertas inteligentes en tiempo real. | `React Native` `TypeScript` | 🛠️ Mantenimiento |
-| 🔩 **[Ferretería System](https://github.com/torrez9)** | Software de control de stock de ferretería, cotizaciones y módulo de proveedores. | `Laravel` `Vue.js` `MySQL` | 📦 Completado |
+| **[MasterCredit SA](https://github.com/torrez9)** | Comprehensive loan, payment, accounting, and amortization management system. | `Laravel` `Vue.js` `MySQL` `Tailwind` | Production |
+| **[FarmaciaHarold](https://github.com/torrez9)** | Pharmacy administration platform, POS inventory management, and billing system. | `Laravel` `Inertia.js` `MySQL` | Production |
+| **[MindTrack](https://github.com/torrez9)** | Mobile tracking application for personal habits, productivity metrics, and routines. | `React Native` `Kotlin` `REST API` | Active |
+| **[RecordatorioApp](https://github.com/torrez9)** | Real-time smart notifications, scheduling, and reminder mobile solution. | `React Native` `TypeScript` | Maintenance |
+| **[Ferreteria System](https://github.com/torrez9)** | Hardware store inventory stock control, quotation generator, and supplier manager. | `Laravel` `Vue.js` `MySQL` | Completed |
 
 ---
 
-### 📊 GitHub Activity & Analytics
+### GitHub Activity & Analytics
 
 <div align="center">
 
@@ -107,12 +105,12 @@ current_focus:
     <tr>
       <td align="center">
         <a href="https://github.com/torrez9">
-          <img src="https://github-readme-stats.vercel.app/api?username=torrez9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=a855f7&icon_color=818cf8&text_color=94a3b8&bg_color=0b0f19" height="175" alt="Jose's GitHub Stats"/>
+          <img src="https://github-readme-stats.vercel.app/api?username=torrez9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=a855f7&icon_color=818cf8&text_color=94a3b8&bg_color=0b0f19" height="175" alt="Jose GitHub Stats"/>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/torrez9">
-          <img src="https://streak-stats.demolab.com/?user=torrez9&theme=tokyonight&hide_border=true&ring=a855f7&fire=818cf8&currStreakLabel=a855f7&sideNums=94a3b8&sideLabels=94a3b8&background=0b0f19" height="175" alt="Jose's Streak Stats"/>
+          <img src="https://streak-stats.demolab.com/?user=torrez9&theme=tokyonight&hide_border=true&ring=a855f7&fire=818cf8&currStreakLabel=a855f7&sideNums=94a3b8&sideLabels=94a3b8&background=0b0f19" height="175" alt="Jose Streak Stats"/>
         </a>
       </td>
     </tr>
@@ -136,7 +134,7 @@ current_focus:
 
 ---
 
-### 🌐 Conecta Conmigo / Let's Connect
+### Connect With Me
 
 <div align="center">
 
@@ -156,15 +154,12 @@ current_focus:
     <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio Badge"/>
   </a>
 
-  <br/><br/>
-  <p>🤝 <em>¿Tienes una propuesta o quieres colaborar en un proyecto? ¡Hablemos!</em></p>
-
 </div>
 
 <!-- Footer Wave Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,35:4338ca,70:1e1b4b,100:090d16&height=120&section=footer" width="100%" alt="Footer Banner"/>
   <p align="center">
-    <sub>Crafted with 💜 and code by <a href="https://github.com/torrez9">Jose Torrez</a></sub>
+    <sub>Developed and maintained by <a href="https://github.com/torrez9">Jose Torrez</a></sub>
   </p>
 </div>
