@@ -1,3 +1,4 @@
+<!-- markdownlint-disable MD033 MD041 -->
 <div align="center">
 
   <!-- Header Banner -->
@@ -18,6 +19,7 @@
     </a>
     <img src="https://komarev.com/ghpvc/?username=torrez9&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile Views"/>
     <img src="https://img.shields.io/badge/Location-Nicaragua-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+    <img src="https://img.shields.io/badge/Degree-Systems%20Engineering-4338CA?style=for-the-badge&logo=codeforces&logoColor=white" alt="Systems Engineering"/>
     <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-10B981?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Status"/>
     <a href="LICENSE">
       <img src="https://img.shields.io/badge/License-MIT-8B5CF6?style=for-the-badge" alt="License MIT"/>
@@ -27,6 +29,11 @@
   <!-- Quote -->
   <p>
     <em>"Technology does not just solve problems — it architects new opportunities for growth."</em>
+  </p>
+
+  <!-- Daily Dev Quote -->
+  <p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Dev Quote"/>
   </p>
 
 </div>
@@ -60,26 +67,37 @@ current_focus:
 <div align="center">
 
 #### Backend & Architecture
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,kotlin&theme=dark" alt="Backend Technologies" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,fastapi,kotlin&theme=dark" alt="Backend Technologies" />
 </p>
 
 #### Frontend & User Interface
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,js,ts,html,css,tailwind&theme=dark" alt="Frontend Technologies" />
+  <img src="https://skillicons.dev/icons?i=vue,react,js,ts,html,css,tailwind,bootstrap,vite&theme=dark" alt="Frontend Technologies" />
+</p>
+
+#### Mobile Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,kotlin,androidstudio&theme=dark" alt="Mobile Development" />
 </p>
 
 #### Databases & Caching
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb&theme=dark" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb,sqlite&theme=dark" alt="Databases" />
 </p>
 
 #### DevOps, Cloud & Environments
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,aws,nginx,linux,bash,githubactions,git&theme=dark" alt="DevOps & Tools" />
 </p>
 
 #### Tools & Development Workflow
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,postman,figma,github&theme=dark" alt="Tools" />
 </p>
@@ -94,9 +112,41 @@ current_focus:
 | :--- | :--- | :--- | :---: |
 | **[MasterCredit SA](https://github.com/torrez9)** | Comprehensive loan, payment, accounting, and amortization management system. | `Laravel` `Vue.js` `MySQL` `Tailwind` | Production |
 | **[FarmaciaHarold](https://github.com/torrez9)** | Pharmacy administration platform, POS inventory management, and billing system. | `Laravel` `Inertia.js` `MySQL` | Production |
-| **[MindTrack](https://github.com/torrez9)** | Mobile tracking application for personal habits, productivity metrics, and routines. | `React Native` `Kotlin` `REST API` | Active |
-| **[RecordatorioApp](https://github.com/torrez9)** | Real-time smart notifications, scheduling, and reminder mobile solution. | `React Native` `TypeScript` | Maintenance |
-| **[Ferreteria System](https://github.com/torrez9)** | Hardware store inventory stock control, quotation generator, and supplier manager. | `Laravel` `Vue.js` `MySQL` | Completed |
+| **[RecordatorioApp](https://github.com/torrez9/RecordatorioApp)** | Real-time smart notifications, scheduling, and reminder mobile solution. | `Kotlin` `Android` `SQLite` | Active |
+| **[Sistema-de-Tickets](https://github.com/torrez9/Sistema-de-Tickets)** | Customer support ticketing system with status tracking and resolution workflows. | `PHP` `Laravel` `MySQL` | Active |
+| **[FerreteriaIA](https://github.com/torrez9/FerreteriaIA)** | Hardware store stock control, quotation generator, and intelligent supplier management. | `PHP` `Laravel` `MySQL` | Completed |
+| **[Streamlit-Cloud](https://github.com/torrez9/Streamlit-Cloud)** | Cloud data exploration and analytical dashboard application. | `Python` `Streamlit` `Pandas` | Active |
+
+<div align="center">
+
+  <table border="0">
+    <tr>
+      <td align="center">
+        <a href="https://github.com/torrez9/RecordatorioApp">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=torrez9&repo=RecordatorioApp&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=a855f7&icon_color=818cf8&text_color=94a3b8" alt="RecordatorioApp Pin" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/torrez9/Sistema-de-Tickets">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=torrez9&repo=Sistema-de-Tickets&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=a855f7&icon_color=818cf8&text_color=94a3b8" alt="Sistema de Tickets Pin" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/torrez9/FerreteriaIA">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=torrez9&repo=FerreteriaIA&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=a855f7&icon_color=818cf8&text_color=94a3b8" alt="FerreteriaIA Pin" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/torrez9/Streamlit-Cloud">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=torrez9&repo=Streamlit-Cloud&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=a855f7&icon_color=818cf8&text_color=94a3b8" alt="Streamlit Cloud Pin" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+</div>
 
 ---
 
@@ -125,6 +175,15 @@ current_focus:
       </td>
     </tr>
   </table>
+
+  <br/>
+
+  <!-- Snake Contribution Matrix -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/torrez9/torrez9/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/torrez9/torrez9/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/torrez9/torrez9/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
 
   <br/>
 
