@@ -1,0 +1,255 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 310" width="100%" height="auto">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080c14"/>
+      <stop offset="50%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#090d16"/>
+    </linearGradient>
+    <linearGradient id="borderGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6366f1" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#f43f5e" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#6366f1" stop-opacity="0.8"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1e293b" stroke-width="0.8" opacity="0.6"/>
+    </pattern>
+  </defs>
+
+  <rect width="1024" height="310" rx="16" fill="url(#bg)"/>
+  <rect width="1024" height="310" rx="16" fill="url(#grid)"/>
+  <rect x="1.5" y="1.5" width="1021" height="307" rx="15" fill="none" stroke="url(#borderGlow)" stroke-width="1.5"/>
+
+  <!-- Window Header Bar -->
+  <path d="M 2 16 Q 2 2 16 2 L 1008 2 Q 1022 2 1022 16 L 1022 42 L 2 42 Z" fill="#0f172a" opacity="0.95"/>
+  <line x1="2" y1="42" x2="1022" y2="42" stroke="#334155" stroke-width="1" opacity="0.8"/>
+
+  <!-- Traffic Lights -->
+  <circle cx="26" cy="22" r="6" fill="#ef4444"/>
+  <circle cx="46" cy="22" r="6" fill="#f59e0b"/>
+  <circle cx="66" cy="22" r="6" fill="#10b981"/>
+
+  <text x="95" y="26" font-family="'Consolas', 'Fira Code', monospace" font-size="13" fill="#94a3b8">laravel-framework@core: ~/artisan</text>
+  <text x="999" y="26" text-anchor="end" font-family="'Consolas', 'Fira Code', monospace" font-size="13" font-weight="bold" fill="#34d399">● LARAVEL 11 &amp; INERTIA.JS ECOSYSTEM</text>
+
+  <!-- Binary Characters -->
+  <g font-family="'Courier New', 'Consolas', monospace" font-size="10" fill="#f1f5f9">
+    <text x="49.0" y="58.0">1110111</text>
+    <text x="205.0" y="58.0">10100011</text>
+    <text x="319.4" y="58.0">11010111100001111</text>
+    <text x="491.0" y="58.0">11011111</text>
+    <text x="595.0" y="58.0">1111110</text>
+    <text x="683.4" y="58.0">1101101</text>
+    <text x="745.8" y="58.0">1111110111110111001</text>
+    <text x="881.0" y="58.0">1110110</text>
+    <text x="49.0" y="66.5">1111111</text>
+    <text x="205.0" y="66.5">110111001</text>
+    <text x="319.4" y="66.5">001011011000111110</text>
+    <text x="491.0" y="66.5">111110101</text>
+    <text x="595.0" y="66.5">1001111</text>
+    <text x="678.2" y="66.5">10011111</text>
+    <text x="745.8" y="66.5">0011100011011110111</text>
+    <text x="881.0" y="66.5">0111111</text>
+    <text x="49.0" y="75.0">0101111</text>
+    <text x="199.8" y="75.0">1111101101</text>
+    <text x="319.4" y="75.0">0110110101011111111</text>
+    <text x="485.8" y="75.0">0111110000</text>
+    <text x="595.0" y="75.0">10011001</text>
+    <text x="678.2" y="75.0">0111111</text>
+    <text x="745.8" y="75.0">1111111110110111110</text>
+    <text x="881.0" y="75.0">1111100</text>
+    <text x="49.0" y="83.5">1111111</text>
+    <text x="199.8" y="83.5">01011101110</text>
+    <text x="319.4" y="83.5">01010101011110010101</text>
+    <text x="485.8" y="83.5">11111111111</text>
+    <text x="600.2" y="83.5">1111111</text>
+    <text x="678.2" y="83.5">1101111</text>
+    <text x="745.8" y="83.5">1111101011011101110</text>
+    <text x="881.0" y="83.5">1010001</text>
+    <text x="49.0" y="92.0">0010111</text>
+    <text x="199.8" y="92.0">11101111000</text>
+    <text x="319.4" y="92.0">01011101001101101011</text>
+    <text x="485.8" y="92.0">11101111011</text>
+    <text x="600.2" y="92.0">1101011</text>
+    <text x="673.0" y="92.0">1100001</text>
+    <text x="745.8" y="92.0">1111010111111110101</text>
+    <text x="881.0" y="92.0">1111011</text>
+    <text x="49.0" y="100.5">0111101</text>
+    <text x="194.6" y="100.5">110111101011</text>
+    <text x="319.4" y="100.5">0111010</text>
+    <text x="381.8" y="100.5">11011101</text>
+    <text x="480.6" y="100.5">011110111111</text>
+    <text x="600.2" y="100.5">11110000</text>
+    <text x="673.0" y="100.5">1111101</text>
+    <text x="745.8" y="100.5">1111110</text>
+    <text x="881.0" y="100.5">1011110</text>
+    <text x="49.0" y="109.0">1111111</text>
+    <text x="194.6" y="109.0">111111</text>
+    <text x="231.0" y="109.0">111111</text>
+    <text x="319.4" y="109.0">1111110</text>
+    <text x="387.0" y="109.0">0001111</text>
+    <text x="480.6" y="109.0">100111</text>
+    <text x="517.0" y="109.0">010110</text>
+    <text x="605.4" y="109.0">1111111</text>
+    <text x="673.0" y="109.0">1011111</text>
+    <text x="745.8" y="109.0">1111001</text>
+    <text x="881.0" y="109.0">1001111</text>
+    <text x="49.0" y="117.5">1111110</text>
+    <text x="189.4" y="117.5">1011010</text>
+    <text x="231.0" y="117.5">111110</text>
+    <text x="319.4" y="117.5">1101111</text>
+    <text x="387.0" y="117.5">0011111</text>
+    <text x="475.4" y="117.5">1111111</text>
+    <text x="517.0" y="117.5">111110</text>
+    <text x="605.4" y="117.5">1111111</text>
+    <text x="673.0" y="117.5">101011</text>
+    <text x="745.8" y="117.5">0110110</text>
+    <text x="881.0" y="117.5">1101101</text>
+    <text x="49.0" y="126.0">0110110</text>
+    <text x="189.4" y="126.0">011111</text>
+    <text x="231.0" y="126.0">111001</text>
+    <text x="319.4" y="126.0">0100111</text>
+    <text x="387.0" y="126.0">1001101</text>
+    <text x="475.4" y="126.0">011101</text>
+    <text x="517.0" y="126.0">111110</text>
+    <text x="610.6" y="126.0">111111</text>
+    <text x="667.8" y="126.0">1011111</text>
+    <text x="745.8" y="126.0">110111110011100111</text>
+    <text x="881.0" y="126.0">1011101</text>
+    <text x="49.0" y="134.5">1110111</text>
+    <text x="189.4" y="134.5">101111</text>
+    <text x="231.0" y="134.5">1111011</text>
+    <text x="319.4" y="134.5">10111111110111101011</text>
+    <text x="475.4" y="134.5">010010</text>
+    <text x="517.0" y="134.5">1100101</text>
+    <text x="610.6" y="134.5">0000101</text>
+    <text x="667.8" y="134.5">1111110</text>
+    <text x="745.8" y="134.5">111111111111111111</text>
+    <text x="881.0" y="134.5">1111111</text>
+    <text x="49.0" y="143.0">1010000</text>
+    <text x="184.2" y="143.0">1111111</text>
+    <text x="236.2" y="143.0">101111</text>
+    <text x="319.4" y="143.0">1011111111111010111</text>
+    <text x="470.2" y="143.0">1011111</text>
+    <text x="522.2" y="143.0">111111</text>
+    <text x="610.6" y="143.0">1111101</text>
+    <text x="667.8" y="143.0">111010</text>
+    <text x="745.8" y="143.0">101111111110101111</text>
+    <text x="881.0" y="143.0">1111110</text>
+    <text x="49.0" y="151.5">1101111</text>
+    <text x="184.2" y="151.5">111111</text>
+    <text x="236.2" y="151.5">1111111</text>
+    <text x="319.4" y="151.5">101100110101111110</text>
+    <text x="470.2" y="151.5">001100</text>
+    <text x="522.2" y="151.5">1111101</text>
+    <text x="615.8" y="151.5">111111</text>
+    <text x="662.6" y="151.5">1101110</text>
+    <text x="745.8" y="151.5">111111100111111101</text>
+    <text x="881.0" y="151.5">0010111</text>
+    <text x="49.0" y="160.0">0111001</text>
+    <text x="184.2" y="160.0">111111</text>
+    <text x="236.2" y="160.0">1010100</text>
+    <text x="319.4" y="160.0">1101111100101111</text>
+    <text x="470.2" y="160.0">111001</text>
+    <text x="522.2" y="160.0">0111101</text>
+    <text x="615.8" y="160.0">0101110</text>
+    <text x="662.6" y="160.0">111111</text>
+    <text x="745.8" y="160.0">110111110111111101</text>
+    <text x="881.0" y="160.0">0011110</text>
+    <text x="49.0" y="168.5">1111110</text>
+    <text x="179.0" y="168.5">011111111100011011</text>
+    <text x="319.4" y="168.5">0110101010111011</text>
+    <text x="465.0" y="168.5">111011010011011101</text>
+    <text x="615.8" y="168.5">1111110</text>
+    <text x="662.6" y="168.5">111111</text>
+    <text x="745.8" y="168.5">1111110</text>
+    <text x="881.0" y="168.5">1111111</text>
+    <text x="49.0" y="177.0">1001011</text>
+    <text x="179.0" y="177.0">1010101100110011100</text>
+    <text x="319.4" y="177.0">1110100</text>
+    <text x="366.2" y="177.0">11010101</text>
+    <text x="465.0" y="177.0">1110011110111111010</text>
+    <text x="621.0" y="177.0">110101</text>
+    <text x="657.4" y="177.0">0010111</text>
+    <text x="745.8" y="177.0">0110001</text>
+    <text x="881.0" y="177.0">1110111</text>
+    <text x="49.0" y="185.5">0111010</text>
+    <text x="173.8" y="185.5">11111111111110011100</text>
+    <text x="319.4" y="185.5">0111111</text>
+    <text x="371.4" y="185.5">11110110</text>
+    <text x="459.8" y="185.5">01110010001011111011</text>
+    <text x="621.0" y="185.5">1111110111111</text>
+    <text x="745.8" y="185.5">0010110</text>
+    <text x="881.0" y="185.5">1111110</text>
+    <text x="49.0" y="194.0">0111111</text>
+    <text x="173.8" y="194.0">01101101111011111100</text>
+    <text x="319.4" y="194.0">1111110</text>
+    <text x="376.6" y="194.0">11111111</text>
+    <text x="459.8" y="194.0">11101101011100011111</text>
+    <text x="626.2" y="194.0">111010110011</text>
+    <text x="745.8" y="194.0">1101101</text>
+    <text x="881.0" y="194.0">0001111</text>
+    <text x="49.0" y="202.5">011001101001111110</text>
+    <text x="173.8" y="202.5">111100101111101011111</text>
+    <text x="319.4" y="202.5">0111100</text>
+    <text x="376.6" y="202.5">11111010</text>
+    <text x="459.8" y="202.5">111110111111101001000</text>
+    <text x="626.2" y="202.5">111101111111</text>
+    <text x="745.8" y="202.5">1110111111111100100</text>
+    <text x="881.0" y="202.5">110111010100111111</text>
+    <text x="49.0" y="211.0">111011110011111111</text>
+    <text x="168.6" y="211.0">1110001101110110001110</text>
+    <text x="319.4" y="211.0">1111001</text>
+    <text x="381.8" y="211.0">11111011</text>
+    <text x="454.6" y="211.0">1101011101111110011111</text>
+    <text x="626.2" y="211.0">11101111111</text>
+    <text x="745.8" y="211.0">0111111011110111110</text>
+    <text x="881.0" y="211.0">001111101111111011</text>
+    <text x="49.0" y="219.5">111111011111111100</text>
+    <text x="168.6" y="219.5">1110100</text>
+    <text x="246.6" y="219.5">11111110</text>
+    <text x="319.4" y="219.5">0111111</text>
+    <text x="381.8" y="219.5">01111111</text>
+    <text x="454.6" y="219.5">1110001</text>
+    <text x="532.6" y="219.5">10011111</text>
+    <text x="631.4" y="219.5">1111111110</text>
+    <text x="745.8" y="219.5">1011011011101011111</text>
+    <text x="881.0" y="219.5">111111111010110110</text>
+    <text x="49.0" y="228.0">110111100111101010</text>
+    <text x="168.6" y="228.0">1011110</text>
+    <text x="251.8" y="228.0">0101000</text>
+    <text x="319.4" y="228.0">1011100</text>
+    <text x="387.0" y="228.0">10011111</text>
+    <text x="454.6" y="228.0">0111111</text>
+    <text x="537.8" y="228.0">1001000</text>
+    <text x="631.4" y="228.0">1100111111</text>
+    <text x="745.8" y="228.0">1111110110111111010</text>
+    <text x="881.0" y="228.0">111101111011011111</text>
+    <text x="49.0" y="236.5">111111111111100111</text>
+    <text x="163.4" y="236.5">1110111</text>
+    <text x="251.8" y="236.5">1101111</text>
+    <text x="319.4" y="236.5">0111011</text>
+    <text x="392.2" y="236.5">11011011</text>
+    <text x="449.4" y="236.5">1011011</text>
+    <text x="537.8" y="236.5">1101111</text>
+    <text x="631.4" y="236.5">100101100</text>
+    <text x="745.8" y="236.5">1111001111111001110</text>
+    <text x="881.0" y="236.5">111110110111111111</text>
+    <text x="49.0" y="245.0">110111111011011111</text>
+    <text x="163.4" y="245.0">1011111</text>
+    <text x="251.8" y="245.0">10111110</text>
+    <text x="319.4" y="245.0">1011001</text>
+    <text x="392.2" y="245.0">10010011</text>
+    <text x="449.4" y="245.0">1111111</text>
+    <text x="537.8" y="245.0">01110111</text>
+    <text x="636.6" y="245.0">01000011</text>
+    <text x="745.8" y="245.0">1110111011100000110</text>
+    <text x="881.0" y="245.0">100111110010011111</text>
+  </g>
+
+  <!-- Divider -->
+  <line x1="80" y1="252" x2="944" y2="252" stroke="#334155" stroke-width="1" opacity="0.6"/>
+
+  <!-- Subtitle -->
+  <text x="512" y="274" text-anchor="middle" font-family="'Consolas', 'Fira Code', monospace" font-size="14" font-weight="bold" fill="#f43f5e">HIGH-PERFORMANCE ARCHITECTURE  *  ELOQUENT ORM  *  QUEUES  *  REST &amp; GRAPHQL APIS</text>
+  <text x="512" y="304" text-anchor="middle" font-family="'Consolas', 'Fira Code', monospace" font-size="12" fill="#94a3b8">[ MVC Architecture ]   [ Pest / PHPUnit Testing ]   [ Vite + Tailwind ]   [ Redis &amp; Horizon ]</text>
+</svg>

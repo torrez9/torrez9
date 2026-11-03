@@ -1,12 +1,18 @@
 <!-- markdownlint-disable MD033 MD041 -->
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,35:1e1b4b,70:4338ca,100:7c3aed&height=230&section=header&text=Jose%20Torrez&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20DevOps%20Engineer%20%7C%20Systems%20Engineering&descAlignY=58&descSize=19" width="100%" alt="Jose Torrez Header"/>
+  <!-- Hero Header Banner (Binary Matrix Art) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/header.svg">
+    <img src="assets/header.png" width="100%" alt="Jose Torrez - Full-Stack Developer & Systems Engineer"/>
+  </picture>
+
+  <br/>
 
   <!-- Typing Dynamic Text Animation -->
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=750&height=50&lines=Full-Stack+Developer+%26+Systems+Engineer;Laravel+%2B+Vue.js+%2B+Inertia.js+Specialist;DevOps+%26+Cloud+Infrastructure+Enthusiast;Building+scalable+and+reliable+software+solutions" alt="Typing Dynamic Animation"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1100&color=A855F7&center=true&vCenter=true&width=750&height=50&lines=Jose+Torrez+%7C+Systems+Engineering;Full-Stack+Architect+%26+Laravel+Specialist;Vue.js+%2B+Inertia.js+Reactive+SPAs;DevOps+%26+Cloud+Infrastructure+Enthusiast;Building+Scalable%2C+Reliable+%26+Secure+Software" alt="Typing Dynamic Animation"/>
   </p>
 
   <!-- Quick Badges & Profile Metrics -->
@@ -26,7 +32,7 @@
     </a>
   </p>
 
-  <!-- Quote -->
+  <!-- Dev Philosophy Quote -->
   <p>
     <em>"Technology does not just solve problems — it architects new opportunities for growth."</em>
   </p>
@@ -38,6 +44,31 @@
 
 </div>
 
+<!-- Terminal Binary Code Showcase (Collapsible) -->
+<details>
+  <summary align="center"><strong>👾 Click here to view raw Terminal Binary Art</strong></summary>
+
+```text
+       11111111101         01111111001         101111111111        111111111111101             111111111111111101         10111111001          1011111111111101       1011111111111001       101111111111101      111111111111111111
+       11111111111       10111111111110       11111111111111       111111111111111             111111111111111111       111111111111101        11111111111111111      1111111111111111       111111111111111      111111111111111111
+       11111111111      1111111111111111     1111111111111111      111111111111111             111111111111111111      1111111111111111        111111111111111111     11111111111111111      111111111111111      111111111111111111
+            111111     11111110    1111111   11111111    111111    111111                           111111           11111111    11111111      111111      1111111    111111      1111111    111111                          1111111
+            111111    1111111        111111  1111111      11111    111111                           111111          1111111        1111111     111111       111111    111111       111111    111111                         1111111
+            111111    111111          111111 11111111              111111                           111111          111111          111111     111111       111111    111111       111111    111111                        1111111
+            111111    111111          111111  111111111111         1111111111111                    111111          111111          111111     11111111111111111      11111111111111111      1111111111111                1111111
+            111111    111111          111111   1111111111111       1111111111111                    111111          111111          111111     111111111111111        111111111111111        1111111111111               1111111
+            111111    111111          111111     111111111111      1111111111111                    111111          111111          111111     1111111111111111       1111111111111111       1111111111111              1111111
+            111111    111111          111111              111111   111111                           111111          111111          111111     111111     1111111     111111     1111111     111111                    1111111
+            111111    111111          111111  111111       11111   111111                           111111          111111          111111     111111      1111111    111111      1111111    111111                   1111111
+       11   111111     1111111      1111111  1111111      111111   111111                           111111           1111111      11111111     111111       1111111   111111       1111111   111111                  1111111
+      111111111111      11111111    1111111   11111111    111111   111111                           111111            11111111    11111111      111111        1111111  111111        1111111  111111                 1111111
+      111111111111       1111111111111111      1111111111111111    111111111111111                  111111             1111111111111111       111111         1111111 111111         1111111 111111111111111       111111111111111111
+      11111111110         10111111111111        11111111111110     111111111111111                  111111              11111111111111        111111          1111111 111111          1111111 111111111111111       111111111111111111
+       111111111           11111111110            1111111111       111111111111101                  111111                10111111111         111111           111111 111111           111111 101111111111101       111111111111111111
+```
+
+</details>
+
 ---
 
 ### About Me
@@ -47,7 +78,7 @@ developer:
   name: Jose Torrez
   title: Full-Stack Developer & DevOps Practitioner
   education: Systems Engineering
-  origin: Nicaragua
+  origin: Nicaragua 🇳🇮
   passions:
     - Designing high-availability backend systems
     - Crafting fluid, reactive UI/UX interfaces
@@ -55,10 +86,28 @@ developer:
     - Troubleshooting complex hardware & software challenges
 
 current_focus:
-  core: ['Full-Stack Systems (Laravel + Vue.js/Inertia)', 'Mobile Apps']
+  core: ['Full-Stack Systems (Laravel + Vue.js/Inertia)', 'Mobile Apps (Kotlin)']
   infrastructure: ['Docker Containerization', 'Cloud Deployment & Monitoring']
-  learning_horizon: ['Advanced Microservices', 'AI & Machine Learning Integrations', 'Data Pipelines']
+  learning_horizon: ['Advanced Microservices', 'AI Integrations', 'Data Pipelines']
 ```
+
+---
+
+### Laravel Ecosystem Spotlight
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/laravel.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/laravel.svg">
+    <img src="assets/laravel.png" width="90%" alt="Laravel Binary Architecture Spotlight"/>
+  </picture>
+
+  <p align="center">
+    <code>Laravel 11 / 10</code> • <code>Inertia.js + Vue.js SPA</code> • <code>Eloquent ORM Optimization</code> • <code>Queue & Job Workers</code> • <code>Pest & PHPUnit Testing</code>
+  </p>
+
+</div>
 
 ---
 
@@ -66,38 +115,32 @@ current_focus:
 
 <div align="center">
 
-#### Backend & Architecture
-
+#### Backend & Core Architecture
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,fastapi,kotlin&theme=dark" alt="Backend Technologies" />
 </p>
 
-#### Frontend & User Interface
-
+#### Frontend & Reactive User Interfaces
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vue,react,js,ts,html,css,tailwind,bootstrap,vite&theme=dark" alt="Frontend Technologies" />
 </p>
 
 #### Mobile Development
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,kotlin,androidstudio&theme=dark" alt="Mobile Development" />
 </p>
 
 #### Databases & Caching
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb,sqlite&theme=dark" alt="Databases" />
 </p>
 
-#### DevOps, Cloud & Environments
-
+#### DevOps, Cloud & CI/CD Pipelines
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,aws,nginx,linux,bash,githubactions,git&theme=dark" alt="DevOps & Tools" />
 </p>
 
-#### Tools & Development Workflow
-
+#### Developer Tooling & Workflow
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,postman,figma,github&theme=dark" alt="Tools" />
 </p>
@@ -110,12 +153,14 @@ current_focus:
 
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :---: |
-| **[MasterCredit SA](https://github.com/torrez9)** | Comprehensive loan, payment, accounting, and amortization management system. | `Laravel` `Vue.js` `MySQL` `Tailwind` | Production |
-| **[FarmaciaHarold](https://github.com/torrez9)** | Pharmacy administration platform, POS inventory management, and billing system. | `Laravel` `Inertia.js` `MySQL` | Production |
-| **[RecordatorioApp](https://github.com/torrez9/RecordatorioApp)** | Real-time smart notifications, scheduling, and reminder mobile solution. | `Kotlin` `Android` `SQLite` | Active |
-| **[Sistema-de-Tickets](https://github.com/torrez9/Sistema-de-Tickets)** | Customer support ticketing system with status tracking and resolution workflows. | `PHP` `Laravel` `MySQL` | Active |
-| **[FerreteriaIA](https://github.com/torrez9/FerreteriaIA)** | Hardware store stock control, quotation generator, and intelligent supplier management. | `PHP` `Laravel` `MySQL` | Completed |
-| **[Streamlit-Cloud](https://github.com/torrez9/Streamlit-Cloud)** | Cloud data exploration and analytical dashboard application. | `Python` `Streamlit` `Pandas` | Active |
+| **[MasterCredit SA](https://github.com/torrez9)** | Comprehensive loan, payment, accounting, and amortization management system. | `Laravel` `Vue.js` `MySQL` `Tailwind` | `Production` |
+| **[FarmaciaHarold](https://github.com/torrez9)** | Pharmacy administration platform, POS inventory management, and billing system. | `Laravel` `Inertia.js` `MySQL` | `Production` |
+| **[RecordatorioApp](https://github.com/torrez9/RecordatorioApp)** | Real-time smart notifications, scheduling, and reminder mobile solution. | `Kotlin` `Android` `SQLite` | `Active` |
+| **[Sistema-de-Tickets](https://github.com/torrez9/Sistema-de-Tickets)** | Customer support ticketing system with status tracking and resolution workflows. | `PHP` `Laravel` `MySQL` | `Active` |
+| **[FerreteriaIA](https://github.com/torrez9/FerreteriaIA)** | Hardware store stock control, quotation generator, and intelligent supplier management. | `PHP` `Laravel` `MySQL` | `Completed` |
+| **[Streamlit-Cloud](https://github.com/torrez9/Streamlit-Cloud)** | Cloud data exploration and analytical dashboard application. | `Python` `Streamlit` `Pandas` | `Active` |
+
+<br/>
 
 <div align="center">
 
@@ -228,6 +273,6 @@ This repository is open-source and licensed under the [MIT License](LICENSE).
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,35:4338ca,70:1e1b4b,100:090d16&height=120&section=footer" width="100%" alt="Footer Banner"/>
   <p align="center">
-    <sub>Developed and maintained by <a href="https://github.com/torrez9">Jose Torrez</a></sub>
+    <sub>Designed and engineered by <a href="https://github.com/torrez9">Jose Torrez</a></sub>
   </p>
 </div>
